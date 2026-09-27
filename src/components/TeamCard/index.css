@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.container {
+  background-color: transparent;
+}
+.heading {
+  color: #ffffff;
+  display:flex;
+  flex-direction:row;
+}
